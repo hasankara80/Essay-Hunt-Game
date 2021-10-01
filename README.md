@@ -8,4 +8,5 @@ Please read the 'Installation Guide.pdf' file in Documentation.
 Please read the 'User Manual.pdf' file in Documentation.
 ## Maintenance
 The maintenance guide ('Maintenance Guide.pdf') can be found in the Documentation folder, and contains useful tips for downloading and getting started with Unity, in addition to important information about all the classes and scripts used in the game. This folder also contains all of the files for the complete Unity project which can be downloaded and modified by you.
+
 <img width="1440" alt="EssayHunt_Demo" src="https://user-images.githubusercontent.com/30227494/135583499-b2b57688-511b-47cf-9084-ae5740a1eecb.png">
